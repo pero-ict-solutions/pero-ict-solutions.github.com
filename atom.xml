@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[PeRo ICT Solutions Blog]]></title>
   <link href="http://pero-ict-solutions.github.com/atom.xml" rel="self"/>
   <link href="http://pero-ict-solutions.github.com/"/>
-  <updated>2012-11-14T07:42:07+01:00</updated>
+  <updated>2012-11-14T14:20:03+01:00</updated>
   <id>http://pero-ict-solutions.github.com/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Peter Berkenbosch]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
